@@ -6,7 +6,8 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "eject": "expo eject",
-    "ex":"expo export --public-url https://isthaison.github.io/test30updates/dist/"
+    "ex":"expo export --force --public-url https://isthaison.github.io/test30updates/dist/",
+    "ex-ap":"expo build:android --public-url https://isthaison.github.io/test30updates/dist/android-index.json"
   },
   "dependencies": {
     "expo": "~39.0.2",
