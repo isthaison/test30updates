@@ -8,3 +8,5 @@
 Test device
 Android 10: Samsung A920F
 ````
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://isthaison.github.io/test30updates/dist/Screen_Recording_20201019-232458.mp4
+)
