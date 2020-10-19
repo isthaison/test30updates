@@ -1,6 +1,6 @@
 # test30updates
 ## Test updates host server 
-[Apk file ](https://expo.io/artifacts/958f3eb3-63df-43e1-8831-3eb4c070de6b)
+[Apk file ](https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40isthaison/test39update-8fd73733e1f74f2fab3d2dd9b9c64a27-signed.apk)
 
 [Build log](https://expo.io/dashboard/isthaison/builds/9e940136-cb50-4832-83b5-129d1a6c2928)
 
